@@ -1,0 +1,105 @@
+source_id,title,author,year,publisher_or_journal,url_or_doi,evidence_type,region_coverage,era_coverage,notes
+SRC_001,"Early Greek Philosophy (Loeb Classical Library, 9 vols)","Laks, André; Most, Glenn W. (eds.)",2016,Harvard University Press,,E2,Greek,Ancient,Comprehensive edition with Greek texts and English translations
+SRC_002,The Texts of Early Greek Philosophy,"Graham, Daniel W.",2010,Cambridge University Press,,E2,Greek,Ancient,Modern scholarly compilation of pre-Socratic fragments
+SRC_003,"Science and Civilisation in China, Volume 2: History of Scientific Thought","Needham, Joseph",1956,Cambridge University Press,,E2,Chinese,Ancient,Foundational work on Chinese scientific traditions
+SRC_004,Indian Atomism: History and Sources,"Gangopadhyaya, Mrinalkanti",1980,"Highland Lakes, Humanities Press",,E2,Indian,Ancient,Comprehensive study of Indian atomistic theories
+SRC_005,Early Buddhist Metaphysics,"Ronkin, Noa",2005,RoutledgeCurzon,,E2,Indian,Ancient,Detailed analysis of Buddhist philosophical systems including atomism
+SRC_006,Early Greek Science: Thales to Aristotle,"Lloyd, G.E.R.",1970,Chatto & Windus / Norton,,E2,Greek,Ancient,Standard reference on early Greek natural philosophy
+SRC_007,Die Fragmente der Vorsokratiker,"Diels, Hermann; Kranz, Walther",1952,Weidmann,,E2,Greek,Ancient,Classic collection of pre-Socratic fragments; DK numbering system
+SRC_008,"History of Chinese Philosophy, Volume 1",Fung Yu-lan,1952,Princeton University Press,,E2,Chinese,Ancient,Influential survey of ancient Chinese philosophical schools
+SRC_009,Perception: An Essay on Classical Indian Theories of Knowledge,"Matilal, Bimal Krishna",1986,Oxford University Press,,E2,Indian,Ancient,Key work on Nyāya-Vaiśeṣika epistemology and metaphysics
+SRC_010,The Mechanical Hypothesis in Ancient Greek Natural Philosophy,"Berryman, Sylvia",2009,Cambridge University Press,,E2,Greek,Ancient,Analysis of material and mechanistic explanations in Greek thought
+SRC_011,"Later Mohist Logic, Ethics and Science","Graham, A.C.",1978,Chinese University Press,,E2,Chinese,Ancient,Authoritative study of Mohist contributions to natural investigation
+SRC_012,"Science in the Early Roman Empire: Pliny the Elder, his Sources and Influence","French, R.; Greenaway, F. (eds.)",1986,Croom Helm,,E2,"Greek,Hellenistic",Ancient,Scholarly analysis of Roman encyclopedic tradition
+SRC_013,Buddhist Atomism and the R-Hypothesis,"Sarkar, Sahotra",2021,History and Philosophy of the Life Sciences,,E2,Indian,Ancient,Recent scholarship on Buddhist atomistic theories
+SRC_014,An Estimate of the Vaisesika Sutra in the History of Science,"Subbarayappa, B.V.",1967,International Journal of the History of Science 2(1): 24-34,,E2,Indian,Ancient,
+SRC_015,The Forgotten Revolution: How Science Was Born in 300 BC and Why It Had to Be Reborn,"Russo, Lucio",2004,Springer,,E2,"Greek,Hellenistic",Ancient,Revisionist account of Hellenistic scientific achievements
+SRC_016,"A History of Greek Mathematics, Volume 1","Heath, Thomas L.",1921,Oxford University Press,,E2,"Greek,Hellenistic",Ancient,Classic reference on Greek mathematical achievements
+SRC_017,The Confucian Quest for Order: The Origin and Formation of the Political Thought of Xun Zi,"Sato, Masayuki",2003,Brill,,E2,Chinese,Ancient,Includes material on Jixia Academy and Warring States philosophy
+SRC_018,The Greek Concept of Nature,"Naddaf, Gerard",2005,SUNY Press,,E2,Greek,Ancient,Analysis of how Greeks conceptualized physis (nature)
+SRC_019,A History of Indian Philosophy (5 volumes),"Dasgupta, Surendranath",1955,Cambridge University Press,,E2,Indian,Ancient,Comprehensive survey including Jaina philosophical systems
+SRC_020,The Self-immolation of Kalanos and other Luminous Encounters Among Greeks and Indian Buddhists in the Hellenistic World,"Halkias, Georgios T.",2015,Journal of the Oxford Centre for Buddhist Studies,,E2,"Greek,Indian",Ancient,Greek-Indian intellectual contacts during Hellenistic period
+SRC_021,The Shape of Ancient Thought: Comparative Studies in Greek and Indian Philosophies,"McEvilley, Thomas",2002,Allworth Press,,E2,"Greek,Indian",Ancient,Cross-cultural analysis of philosophical transmission between Greece and India
+SRC_022,Greek Buddha: Pyrrho's Encounter with Early Buddhism in Central Asia,"Beckwith, Christopher I.",2015,Princeton University Press,,E2,"Greek,Indian",Ancient,Examines philosophical exchanges in Greco-Bactrian period
+SRC_023,Physics (Physica),Aristotle,-335,"(Primary text, 4th c. BCE)",,E1,Greek,Ancient,"Eight books on principles of change, motion, place, time"
+SRC_024,Historia Animalium (History of Animals),Aristotle,-340,"(Primary text, 4th c. BCE)",,E1,Greek,Ancient,Ten books systematically classifying animal species
+SRC_025,Elements (Stoicheia),Euclid,-300,"(Primary text, c. 300 BCE)",,E1,Hellenistic,Ancient,Thirteen books systematizing geometry using axiomatic method
+SRC_026,On Floating Bodies; On the Sphere and Cylinder,Archimedes,-250,"(Primary texts, c. 250-212 BCE)",,E1,Hellenistic,Ancient,Mathematical investigation of hydrostatics and geometry
+SRC_027,Mozi (Book of Master Mo) — Canons and Explanations,Mozi and Later Mohist authors,-350,"(Primary text, c. 430-250 BCE)",,E1,Chinese,Ancient,"Logical definitions, optical observations, mechanical principles"
+SRC_028,Vaiśeṣika Sūtra,Kaṇāda (Kashyapa),-200,"(Primary text, c. 600-200 BCE, dating disputed)",,E1,Indian,Ancient,Foundational text establishing six categories and atomic theory
+SRC_029,De Rerum Natura (On the Nature of Things),Lucretius (Titus Lucretius Carus),-55,"(Primary text, c. 60-50 BCE)",,E1,Greek,Ancient,Epic poem in six books expounding Epicurean atomism
+SRC_030,Naturalis Historia (Natural History),Pliny the Elder (Gaius Plinius Secundus),77,"(Primary text, 77-79 CE)",,E1,Greek,Ancient,37-volume encyclopedia; cited 2000+ sources
+SRC_031,Ancient Atomism (Stanford Encyclopedia of Philosophy),"Berryman, Sylvia",2016,Stanford Encyclopedia of Philosophy,https://plato.stanford.edu/entries/atomism-ancient/,E3,"Greek,Indian",Ancient,"Covers Greek, Indian, and Jaina atomism"
+SRC_032,Science and Chinese Philosophy (Stanford Encyclopedia of Philosophy),"Sivin, Nathan; Lloyd, G.E.R.",2018,Stanford Encyclopedia of Philosophy,https://plato.stanford.edu/entries/chinese-phil-science/,E3,Chinese,Ancient,Survey of Chinese natural investigation traditions
+SRC_033,"Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad","Gutas, Dimitri",1998,Yale University Press,,E2,"Islamic, Greek",MED,Translation movement; Graeco-Arabic transmission Baghdad
+SRC_034,The Optics of Ibn al-Haytham (multiple volumes),"Sabra, A.I.",1989,Warburg Institute,,E2,Islamic,MED,Ibn al-Haytham optics research; primary scholarly edition
+SRC_035,Classical Mathematics from Al-Khwarizmi to Descartes,"Rashed, Roshdi",2015,Routledge,,E2,Islamic,MED,Islamic mathematics and science comprehensive study
+SRC_036,Promethean Ambitions: Alchemy and the Quest to Perfect Nature,"Newman, William R.",2004,University of Chicago Press,,E2,"Islamic, European",MED,Medieval alchemy development; Jabirian corpus analysis
+SRC_037,The Secrets of Alchemy,"Principe, Lawrence M.",2013,University of Chicago Press,,E2,"Islamic, European",MED,Alchemy transformation studies from ancient to early modern
+SRC_038,Arabic into Latin in the Middle Ages: The Translators and Their Intellectual and Social Context,"Burnett, Charles",2009,Ashgate Variorum,,E2,"Islamic, European",MED,Toledo School of Translators; transmission networks
+SRC_039,Islamic Science and the Making of the European Renaissance,"Saliba, George",2007,MIT Press,,E2,Islamic,MED,Islamic astronomy and transmission to Europe
+SRC_040,The Beginnings of Western Science,"Lindberg, David C.",1992,University of Chicago Press,,E2,"European, Byzantine, Islamic",MED,Medieval science overview; Byzantine and European traditions
+SRC_041,Science and Civilisation in China (multiple volumes),"Needham, Joseph",1954,Cambridge University Press,,E2,Chinese,MED,Chinese Song/Yuan Dynasty science; comprehensive multivolume
+SRC_042,Science in Ancient China: Researches and Reflections,"Sivin, Nathan",1995,Ashgate Variorum,,E2,Chinese,MED,Chinese scientific traditions; Song Dynasty scholarship
+SRC_043,The Foundations of Modern Science in the Middle Ages,"Grant, Edward",1996,Cambridge University Press,,E2,European,MED,Medieval European science; scholastic natural philosophy
+SRC_044,Robert Grosseteste and the Origins of Experimental Science 1100-1700,"Crombie, A.C.",1953,Clarendon Press,,E2,European,MED,Experimental method development; Oxford tradition
+SRC_045,Prelude to Galileo: Essays on Medieval and Sixteenth-Century Sources of Galileo's Thought,"Wallace, William A.",1981,Reidel,,E2,European,MED,Scholastic natural philosophy; impetus and motion theories
+SRC_046,Various articles on Ibn al-Haytham's scientific method,"El-Bizri, Nader",2005,Journal publications,,E2,Islamic,MED,Experimental method in Islamic optics; Ibn al-Haytham methodology
+SRC_047,"The Rise of Early Modern Science: Islam, China, and the West","Huff, Toby E.",2003,Cambridge University Press,,E2,"Islamic, Chinese, European",MED,Comparative medieval science across civilisations
+SRC_048,Aladdin's Lamp: How Greek Science Came to Europe Through the Islamic World,"Freely, John",2009,Knopf,,E2,"Islamic, European",MED,Knowledge transmission from Greek through Islamic to European
+SRC_049,L'Algèbre arabe: Genèse d'un art,"Djebbar, Ahmed",2005,Vuibert,,E2,Islamic,MED,Islamic mathematical sciences; algebra development
+SRC_050,"Globalization of Knowledge in the Post-Antique Mediterranean, 700-1500","Renn, Jürgen and Schemmel, Matthias (eds.)",2012,Edition Open Access,,E2,"Islamic, European, Byzantine",MED,Knowledge networks; transmission mechanisms medieval period
+SRC_051,Medieval Islamic Medicine,"Pormann, Peter E. and Savage-Smith, Emilie",2007,Edinburgh University Press,,E2,"Islamic, Byzantine",MED,Islamic medical traditions; hospital medicine; Byzantine medicine
+SRC_052,"Artisan/Practitioners and the Rise of the New Sciences, 1400-1600","Long, Pamela O.",2011,Oregon State University Press,,E2,European,MED,Practical knowledge traditions; craft knowledge documentation
+SRC_053,Alchemy,"Holmyard, E.J.",1957,Penguin Books,,E2,"Islamic, European",MED,Alchemical history from ancient through medieval
+SRC_054,The Scientific Revolution,"Shapin, Steven",1996,University of Chicago Press,,E2,European,EMD,Scientific Revolution overview; social history of science; early modern knowledge practice
+SRC_055,Revolutionizing the Sciences: European Knowledge and Its Ambitions 1500-1700,"Dear, Peter",2001,Princeton University Press,,E2,European,EMD,Scientific Revolution comprehensive analysis; knowledge systems 1500-1700
+SRC_056,The Scientific Revolution and the Origins of Modern Science,"Henry, John",2008,Palgrave Macmillan,,E2,European,EMD,Origins and development of modern science; Scientific Revolution synthesis
+SRC_057,Francis Bacon and the Transformation of Early-Modern Philosophy,"Gaukroger, Stephen",2001,Cambridge University Press,,E2,European,EMD,Bacon experimental philosophy; inductive method; methodology
+SRC_058,The Cambridge Companion to Galileo,"Machamer, Peter (ed.)",1998,Cambridge University Press,,E2,European,EMD,Galileo methods and contributions; experimental-mathematical method
+SRC_059,Descartes' Metaphysical Physics,"Garber, Daniel",1992,University of Chicago Press,,E2,European,EMD,Cartesian mechanical philosophy; Descartes natural philosophy
+SRC_060,The Science of Nature in the Seventeenth Century,"Anstey, Peter and Schuster, John (eds.)",2014,Springer,,E2,European,EMD,17th century natural philosophy; mechanical philosophy; craft knowledge
+SRC_061,The Diffident Naturalist: Robert Boyle and the Philosophy of Experiment,"Sargent, Rose-Mary",1995,University of Chicago Press,,E2,European,EMD,Boyle experimental philosophy; corpuscular theory; alchemy-chemistry transition
+SRC_062,The Principia: Mathematical Principles of Natural Philosophy (translation with guide),"Cohen, I. Bernard",1999,University of California Press,,E2,European,EMD,Newton Principia analysis; mathematical physics; universal gravitation
+SRC_063,Never at Rest: A Biography of Isaac Newton,"Westfall, Richard S.",1980,Cambridge University Press,,E2,European,EMD,Newton comprehensive biography; Newtonian mechanics; optics
+SRC_064,The Cambridge Companion to Newton,"Smith, George E.",2002,Cambridge University Press,,E2,European,EMD,Newton scientific method; mathematical physics; legacy
+SRC_065,Antoine Lavoisier: Science Administration and Revolution,"Donovan, Arthur",1993,Blackwell,,E2,European,EMD,Lavoisier and chemical revolution; oxygen theory; quantitative chemistry
+SRC_066,The Norton History of Chemistry,"Brock, William H.",1992,Norton,,E2,European,EMD,Chemistry history comprehensive; chemical revolution; atomic theory
+SRC_067,Atoms and Powers: An Essay on Newtonian Matter-Theory and the Development of Chemistry,"Thackray, Arnold",1970,Harvard University Press,,E2,European,EMD,Atomic theory development; Newtonian matter theory; chemistry history
+SRC_068,Is Water H2O? Evidence Realism and Pluralism,"Chang, Hasok",2012,Springer,,E2,European,EMD,Chemical revolution epistemology; oxygen theory; operational definitions
+SRC_069,The Enlightenment of Joseph Priestley,"Schofield, Robert E.",2004,Pennsylvania State University Press,,E2,European,EMD,Priestley comprehensive study; pneumatic chemistry; gas discoveries
+SRC_070,A History of Chemistry (4 volumes),"Partington, J.R.",1961,Macmillan,,E2,European,EMD,Comprehensive chemistry history; pneumatic chemistry; phlogiston theory; alchemy-chemistry transition
+SRC_071,Instruments (Osiris vol. 9),"Van Helden, Albert and Hankins, Thomas",1994,University of Chicago Press,,E2,European,EMD,Scientific instruments history; telescope; microscope; precision measurement
+SRC_072,Lavoisier and the Chemistry of Life,"Holmes, Frederic L.",1985,University of Wisconsin Press,,E2,European,EMD,Experimental chemistry methods; Lavoisier laboratory practice; precision balance
+SRC_073,The Aspiring Adept: Robert Boyle and His Alchemical Quest,"Principe, Lawrence M.",1998,Princeton University Press,,E2,European,EMD,Alchemy-chemistry transition; Boyle alchemy practice; early modern chemistry
+SRC_074,Alchemy Tried in the Fire,"Newman, William R. and Principe, Lawrence M.",2002,University of Chicago Press,,E2,European,EMD,Alchemy role in Scientific Revolution; alchemy-chemistry transition mechanisms
+SRC_075,Physical Chemistry from Ostwald to Pauling: The Making of a Science in America,"Servos, John W.",1990,Princeton University Press,,E2,European,MOD,Physical chemistry institutionalization; Ostwald Leipzig; MIT and Berkeley programmes
+SRC_076,Ideas in Chemistry: A History of the Science,"Knight, David",1992,Rutgers University Press,,E2,European,MOD,"Chemistry subdivisions and development; organic, inorganic, physical chemistry history"
+SRC_077,Contrasts in Scientific Style: Research Groups in the Chemical and Biochemical Sciences,"Fruton, Joseph S.",1990,American Philosophical Society,,E2,European,MOD,Research group organization; Liebig lab model; biochemistry emergence
+SRC_078,"Quantum: Einstein, Bohr, and the Great Debate","Kumar, Manjit",2008,W. W. Norton,,E2,European,MOD,Quantum mechanics development 1900-1927; Copenhagen interpretation debate
+SRC_079,Quantum Generations: A History of Physics in the Twentieth Century,"Kragh, Helge",1999,Princeton University Press,,E2,European,MOD,"Comprehensive 20th century physics history; quantum, relativity, nuclear, particle"
+SRC_080,Inward Bound: Of Matter and Forces in the Physical World,"Pais, Abraham",1986,Oxford University Press,,E2,European,MOD,Particle physics and quantum theory historical development; insider account
+SRC_081,The Kind of Motion We Call Heat (2 volumes),"Brush, Stephen G.",1976,North-Holland,,E2,European,MOD,"Thermodynamics and kinetic theory history; Boltzmann, Maxwell, Clausius"
+SRC_082,Maxwell on Heat and Statistical Mechanics,"Garber, Elizabeth; Brush, Stephen G.; Everitt, C.W.F.",1986,Lehigh University Press,,E2,European,MOD,Statistical mechanics development; Maxwell velocity distribution; kinetic theory
+SRC_083,The Maxwellians,"Hunt, Bruce J.",1991,Cornell University Press,,E2,European,MOD,"Maxwell disciples; electromagnetic theory development; Heaviside, Hertz, Lodge"
+SRC_084,From Maxwell to Microphysics,"Buchwald, Jed Z.",1985,University of Chicago Press,,E2,European,MOD,Electromagnetic theory development; transition to microphysics; electron theory
+SRC_085,Chemical Atomism in the Nineteenth Century,"Rocke, Alan J.",1984,Ohio State University Press,,E2,European,MOD,Atomic theory and organic chemistry; Kekulé structure theory; German chemistry
+SRC_086,Determinants in the Evolution of the European Chemical Industry 1900-1939,"Travis, Anthony S.; Schroter, Harm G.; Homburg, Ernst; Morris, Peter J.T.",1998,Kluwer Academic,,E2,European,MOD,Chemical industry and organic chemistry; dye industry; industrial organic chemistry
+SRC_087,The Scientist's Role in Society,"Ben-David, Joseph",1971,Prentice-Hall,,E2,European,MOD,Professionalization of science; German university model; role of scientist in society
+SRC_088,"Physics in Oxford 1839-1939: Laboratories, Learning, and College Life","Fox, Robert and Gooday, Graeme",2005,Oxford University Press,,E2,European,MOD,University physics laboratories; Clarendon Laboratory; institutional physics history
+SRC_089,Research Schools: Historical Reappraisals (Osiris vol. 8),"Geison, Gerald L. and Holmes, Frederic L.",1993,University of Chicago Press,,E2,European,MOD,"Research schools and lab organization; Liebig, Pasteur, other lab traditions"
+SRC_090,The Basis of the Electron Theory of Metals (Nobel Lecture 1977),"Mott, N.F.",1974,Nobel Foundation,,E2,European,CON,Electronic structure of disordered systems; condensed matter theory overview
+SRC_091,Basic Notions of Condensed Matter Physics (2nd ed.),"Anderson, P.W.",1997,Addison-Wesley,,E2,Global,CON,Condensed matter framework; emergence principle; More is Different essay (1972)
+SRC_092,Solid State Physics,"Ashcroft, N.W. and Mermin, N.D.",1976,"Holt, Rinehart and Winston",,E2,Global,CON,Standard solid state physics textbook; solid state to condensed matter transition
+SRC_093,When Condensed-matter Physics Became King,"Martin, Joseph D.",2018,Physics Today 72(1): 30-37,,E2,Global,CON,Institutional history of condensed matter physics emergence from solid state physics
+SRC_094,The Physicists: The History of a Scientific Community in Modern America,"Kelves, Daniel J.",1995,Harvard University Press,,E2,Global,CON,American physics community post-WWII; Cold War physics; particle vs condensed matter
+SRC_095,Nanotechnology: A Gentle Introduction to the Next Big Idea,"Ratner, Mark and Ratner, Daniel",2003,Prentice Hall,,E2,Global,CON,"Nanotechnology development overview; STM, fullerenes, quantum dots, self-assembly"
+SRC_096,Societal Implications of Nanoscience and Nanotechnology (NSF Workshop Report),"Roco, M.C. and Bainbridge, W.S.",2001,NSF,,E4,Global,CON,Institutional emergence of nanotechnology; NNI 2000 policy context
+SRC_097,Electronic Structure of Matter: Wave Functions and Density Functionals (Nobel Lecture),"Kohn, W.",1999,Reviews of Modern Physics 71: 1253-1266,,E2,Global,CON,DFT development and significance; Hohenberg-Kohn theorem; Kohn-Sham equations
+SRC_098,Essentials of Computational Chemistry: Theories and Models (2nd ed.),"Cramer, Christopher J.",2004,Wiley,,E2,Global,CON,"Computational chemistry methods; DFT, Hartree-Fock, molecular dynamics comprehensive"
+SRC_099,"QED and the Men Who Made It: Dyson, Feynman, Schwinger, and Tomonaga","Schweber, S.S.",1994,Princeton University Press,,E2,Global,CON,QED development history; renormalization; Feynman diagrams; three independent formulations
+SRC_100,The Quantum Theory of Fields (3 volumes),"Weinberg, Steven",1995,Cambridge University Press,,E2,Global,CON,Quantum field theory comprehensive reference; Standard Model; electroweak unification
+SRC_101,History of Materials Science at MIT,"Bever, Michael B.",1988,MIT Department of Materials Science and Engineering,,E4,Global,CON,First Materials Science department history; ARPA IDL programs; metallurgy transition
+SRC_102,Intermetallic Compounds: Principles and Practice,"Westbrook, J.H. and Fleischer, R.L.",2000,Wiley,,E2,Global,CON,Materials science development; intermetallic compounds; alloy theory
+SRC_103,Quantum Computation and Quantum Information,"Nielsen, Michael A. and Chuang, Isaac L.",2000,Cambridge University Press,,E2,Global,CON,Standard quantum computing textbook; field maturation marker (published 2000)
+SRC_104,Quantum Computing in the NISQ Era and Beyond,"Preskill, John",2018,Quantum 2: 79,,E2,Global,CON,Contemporary state of quantum computing; coined NISQ (Noisy Intermediate-Scale Quantum)

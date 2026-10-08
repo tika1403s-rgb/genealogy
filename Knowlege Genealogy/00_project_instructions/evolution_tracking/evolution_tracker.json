@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "project_started": "2026-05-20",
+  "last_updated": "2026-05-20",
+  "instruction_versions": {
+    "core/project_charter.md":              {"current_version": "1.0", "total_updates": 0, "last_updated": "2026-05-20", "update_history": []},
+    "core/ontology_definition.md":          {"current_version": "2.0", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "2.0", "date": "2026-05-20", "type": "major", "reason": "Pioneers + breakthroughs promoted to first-class entities (§11–§15); 4 new edge relations added (§4b); node schema expanded with 5 new fields"}
+    ]},
+    "core/audit_framework.md":              {"current_version": "1.1", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "1.1", "date": "2026-05-20", "type": "minor", "reason": "Added Micro-Audit Checks #8–#9; Phase-Audit failure-mode scans; 3 new Macro-Audit metrics for pioneer/breakthrough/cross-trunk-enabler coverage"}
+    ]},
+    "core/trunk_definitions.md":            {"current_version": "1.1", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "1.1", "date": "2026-05-20", "type": "minor", "reason": "Added cross-trunk breakthrough enabler patterns; noted v1.1 extraction scope"}
+    ]},
+    "core/workflow_procedures.md":          {"current_version": "1.0", "total_updates": 0, "last_updated": "2026-05-20", "update_history": []},
+    "core/quality_guidelines.md":           {"current_version": "1.0", "total_updates": 0, "last_updated": "2026-05-20", "update_history": []},
+    "chat_specific/taxonomy_architect_instructions.md":     {"current_version": "1.0", "total_updates": 0, "last_updated": "2026-05-20", "update_history": []},
+    "chat_specific/source_librarian_instructions.md":       {"current_version": "1.1", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "1.1", "date": "2026-05-20", "type": "minor", "reason": "Added biographical + history-of-technology source targets; cross-trunk source flagging"}
+    ]},
+    "chat_specific/extractor_instructions.md":              {"current_version": "1.1", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "1.1", "date": "2026-05-20", "type": "minor", "reason": "Extraction now produces 6 JSON arrays; pioneer + breakthrough extraction rules; example sketches; v1.1 quality checklist"}
+    ]},
+    "chat_specific/historian_critic_instructions.md":       {"current_version": "1.1", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "1.1", "date": "2026-05-20", "type": "minor", "reason": "Added §8 pioneer coverage check and §9 breakthrough coverage check"}
+    ]},
+    "chat_specific/graph_builder_instructions.md":          {"current_version": "1.1", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "1.1", "date": "2026-05-20", "type": "minor", "reason": "Now maintains 8 master CSVs (was 4); extended validation script; explicit commit ordering"}
+    ]},
+    "chat_specific/visualization_builder_instructions.md":  {"current_version": "1.1", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "1.1", "date": "2026-05-20", "type": "minor", "reason": "Added pioneer view, breakthrough timeline, and comprehensive view specs"}
+    ]},
+    "chat_specific/red_team_reviewer_instructions.md":      {"current_version": "1.1", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "1.1", "date": "2026-05-20", "type": "minor", "reason": "Quantitative metric thresholds expanded from 6 to 9 metrics"}
+    ]},
+    "chat_specific/instruction_curator_instructions.md":    {"current_version": "1.0", "total_updates": 0, "last_updated": "2026-05-20", "update_history": []},
+    "evolving_rules/always_do_this.md":     {"current_version": "1.1", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "1.1", "date": "2026-05-20", "type": "minor", "reason": "Added rules 11–15 for pioneer + breakthrough completeness"}
+    ]},
+    "evolving_rules/never_do_this.md":      {"current_version": "1.1", "total_updates": 1, "last_updated": "2026-05-20", "update_history": [
+      {"version": "1.1", "date": "2026-05-20", "type": "minor", "reason": "Added prohibitions 13–16 for duplicate pioneers, vague contributions, empty enablers, omitted cross-trunk enablers"}
+    ]},
+    "evolving_rules/common_mistakes.md":    {"current_version": "1.0", "total_updates": 0, "last_updated": "2026-05-20", "update_history": []},
+    "evolving_rules/best_practices.md":     {"current_version": "1.0", "total_updates": 0, "last_updated": "2026-05-20", "update_history": []}
+  },
+  "mistake_tracking": {
+    "presentism_violations":            {"by_phase": {}, "trend": "not yet measured", "instruction_effective": null},
+    "founder_mythology":                {"by_phase": {}, "trend": "not yet measured", "instruction_effective": null},
+    "taxonomy_bias_E6_only":            {"by_phase": {}, "trend": "not yet measured", "instruction_effective": null},
+    "false_date_precision":             {"by_phase": {}, "trend": "not yet measured", "instruction_effective": null},
+    "single_pioneer_attribution":       {"by_phase": {}, "trend": "not yet measured", "instruction_effective": null},
+    "eurocentric_bias":                 {"by_phase": {}, "trend": "not yet measured", "instruction_effective": null},
+    "pioneer_orphan_nodes":             {"by_phase": {}, "trend": "not yet measured", "instruction_effective": null, "_note": "added v1.1"},
+    "missing_enabling_breakthroughs":   {"by_phase": {}, "trend": "not yet measured", "instruction_effective": null, "_note": "added v1.1"},
+    "missing_cross_trunk_enablers":     {"by_phase": {}, "trend": "not yet measured", "instruction_effective": null, "_note": "added v1.1"},
+    "duplicate_pioneer_or_breakthrough":{"by_phase": {}, "trend": "not yet measured", "instruction_effective": null, "_note": "added v1.1"},
+    "vague_pioneer_contributions":      {"by_phase": {}, "trend": "not yet measured", "instruction_effective": null, "_note": "added v1.1"}
+  },
+  "summary_metrics": {
+    "user_preferences_added":          1,
+    "process_improvements_adopted":    0,
+    "retroactive_corrections_made":    0,
+    "rules_added_to_never_do_this":   16,
+    "rules_added_to_always_do_this":  15,
+    "rules_proven_effective":          0,
+    "rules_flagged_as_ineffective":    0
+  },
+  "snapshots": [
+    {"version": "v1.0_initial",                  "date": "2026-05-20", "trigger": "project bootstrap",                       "files_snapshotted": "all instruction files at v1.0"},
+    {"version": "v1.1_pioneers_breakthroughs",   "date": "2026-05-20", "trigger": "ontology major bump (pioneers + breakthroughs as first-class)", "files_snapshotted": "all files affected by the v1.1/v2.0 changes"}
+  ]
+}
